@@ -11,7 +11,7 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("Snoop")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("Kristian-edition")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Cory Plotts")]
 [assembly: AssemblyProduct("Snoop")]
@@ -34,5 +34,5 @@ using System.Runtime.InteropServices;
 //      Build Number
 //      Revision
 //
-[assembly: AssemblyVersion("2.8.0.0")]
-[assembly: AssemblyFileVersion("2.8.0.0")]
+[assembly: AssemblyVersion("2.8.1.0")]
+[assembly: AssemblyFileVersion("2.8.1.0")]
